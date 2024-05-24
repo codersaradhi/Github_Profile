@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://codersaradhi.io)
 <h1 align="center">Hi 👋, I'm Asswanth Chaitanya Saradhi Dungala</h1>
 <h3 align="center">A passionate on Problem solving and Full-Stack developer👨🏽‍💻 from India</h3>
-<img align="right" alt="Coding" width="300" src="user.jpeg">
+<imge align="right" alt="Coding" width="300" src="user.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codersaradhi&label=Profile%20views&color=0e75b6&style=flat" alt="codersaradhi" /> </p>
 
