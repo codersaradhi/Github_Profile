@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://codersaradhi.github.io/personal-portfolio](https://codersaradhi.github.io/personal-portfolio)
 
-- 📝 I regularly write articles on [Web development](Web development)
+- 📝 I regularly write articles on (Web development)
 
 - 💬 Ask me about **MERN Stack,OS,CN,DBMS,Data Structures and Algorithms**
 
