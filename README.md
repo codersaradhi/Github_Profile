@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **AI image generating tools**
 
-- 🌱 I’m currently learning **React JS and Generative Tools**
+- 🌱 I’m currently learning **React JS and Generative AI Tools**
 
 - 👨‍💻 All of my projects are available at [https://codersaradhi.github.io/personal-portfolio](https://codersaradhi.github.io/personal-portfolio)
 
