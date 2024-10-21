@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React JS and Generative AI Tools**
 
-- 👨‍💻 All of my projects are available at [https://codersaradhi.github.io/personal-portfolio](https://codersaradhi.github.io/personal-portfolio)
+- 👨‍💻 All of my projects are available at [https://codersaradhi.github.io/saradhi-portfolio/](https://codersaradhi.github.io/saradhi-portfolio/)
 
 - 📝 I regularly write articles on [Web development]
 
